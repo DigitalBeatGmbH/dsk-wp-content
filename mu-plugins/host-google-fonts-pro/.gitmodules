@@ -1,0 +1,3 @@
+[submodule "includes/license-manager"]
+	path = includes/license-manager
+	url = git@github.com:Dan0sz/ffwp-license-manager.git
