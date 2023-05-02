@@ -1,0 +1,24 @@
+
+
+{
+    "type": "video",
+    "version": "1.0",
+    "provider_name": "Vimeo",
+    "provider_url": "https:\/\/vimeo.com\/",
+    "title": "THE PROCESS",
+    "author_name": "Salman Sajun",
+    "author_url": "https:\/\/vimeo.com\/salmansajun",
+    "is_plus": "1",
+    "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/204451040\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"THE PROCESS\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe>",
+    "width": 640,
+    "height": 360,
+    "duration": 85,
+    "description": "So this is how its done! The A -Z of creating a project with yours truly and my talented\u00a0band of magicians.\u00a0I wanted to show all the different steps involved in the creation process\u00a0while adding an explosion of colour and wackiness to it all!\u00a0\n\nCredits:\nDirector and Visual Concept - Salman Sajun\nArt Director - Sarah Ouellet\nLead Stop-Motion Animator - Anna Berezowsky\nPaper Props Specialist - Pauline Loctin\nStop-Motion Animator - Laura Stewart\nStop-Motion Animator \/ Art Department - Raquel Sancinetti\nCarpenter \/ Art Department - Filipp Goussev\nEditor - Simon Huang\nSound Designer - Mattia Cellotto\nMotion Control Equipment - Kessler Crane\nLocation - Nomad Nation",
+    "thumbnail_url": "https:\/\/i.vimeocdn.com\/video\/619079187_640.webp",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "thumbnail_url_with_play_button": "https:\/\/i.vimeocdn.com\/filter\/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F619079187_640.webp&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+    "upload_date": "2017-02-16 18:33:53",
+    "video_id": 204451040,
+    "uri": "\/videos\/204451040"
+}

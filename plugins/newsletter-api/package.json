@@ -1,0 +1,20 @@
+{
+  "name": "newsletter-api",
+  "version": "1.0.0",
+  "description": "=== API Extension for Newsletter ===",
+  "main": "index.js",
+  "scripts": {
+    "editor": "http-server ./node_modules/swagger-editor-dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://giogaspa@bitbucket.org/tnpteam/newsletter-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tnpteam/newsletter-api#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "swagger-editor-dist": "^3.9.0"
+  }
+}

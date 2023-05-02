@@ -1,0 +1,53 @@
+/*
+Theme Name: DSK
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme example child theme.
+Author: Nick
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+
+.fl-builder-edit #site-header,
+.fl-builder-edit.has-transparent-header #site-header,
+.elementor-editor-active #site-header {
+  z-index: 9;
+}
+
+input#woocommerce-product-search-field-0{
+  max-width: 80% !important;
+  max-height: 40px !important;
+  margin-right: 5px !important;
+}
+
+.woocommerce-product-search{
+  display: flex;
+}
+
+/*.woocommerce-product-search button:after {*/
+/*  content: ">" !important;*/
+/*  position: absolute;*/
+/*  display: block;*/
+/*  color: white !important;*/
+/*  top: 11px;*/
+/*  left: 16px;*/
+/*  font-family: 'Font Awesome 5 Free';*/
+/*}*/
+.woocommerce-product-search button{
+  color:transparent !important;
+  max-width: 17px !important;
+  max-height: 40px !important;
+}
+
+.woocommerce-product-search button[type="submit"] {
+  margin-top: 0px !important;
+}
+
+svg.dashicon.dashicons-arrow-right-alt2{
+  fill: white !important;
+  margin-left: -8px !important;
+  margin-top: -3px !important;
+}

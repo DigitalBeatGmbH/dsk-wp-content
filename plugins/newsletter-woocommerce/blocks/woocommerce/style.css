@@ -1,0 +1,10 @@
+/* Tag used on prices */
+ins {
+    text-decoration: none;
+}
+
+@media (max-width: 800px) {
+    td[data-responsive-image="true"] {
+        height: auto !important;
+    }
+}

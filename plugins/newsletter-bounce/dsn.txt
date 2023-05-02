@@ -1,0 +1,35 @@
+Action: failed
+Final-Recipient: rfc822; bounced@email-address.com
+Diagnostic-Code: smtp; 554 4.4.7 Message expired: unable to deliver in 840 minutes.<421 4.4.1 Failed to establish connection>
+Status: 5.5.2
+
+Action: failed
+Final-Recipient: rfc822; bounced@email-address.com
+Diagnostic-Code: smtp; 554 4.4.7 Message expired: unable to deliver in 840 minutes.<421 4.4.0 Unable to lookup DNS for ...>
+Status: 4.4.7
+
+
+
+------=_Part_3128883_530858607.1586239383147
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Description: Notification
+
+An error occurred while trying to deliver the mail to the following recipients:
+xxxxxxx@cloud.com
+------=_Part_3128883_530858607.1586239383147
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery Status Notification
+
+Reporting-MTA: dsn; a3-7.smtp-out.eu-west-1.amazonses.com
+
+Action: failed
+Final-Recipient: rfc822; xxxxxxx@cloud.com
+Diagnostic-Code: smtp; 554 4.4.7 Message expired: unable to deliver in 1440 minutes.<421 4.4.0 Unable to lookup DNS for ms14354512.msv1.invalid>
+Status: 4.4.7
+
+
+------=_Part_3128883_530858607.1586239383147
+Content-Type: message/rfc822
+Content-Description: Undelivered Message

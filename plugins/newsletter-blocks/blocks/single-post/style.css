@@ -1,0 +1,14 @@
+
+@media all and (max-width: 480px) {
+    .single-post-gallery img {
+        max-width: 40%;
+    }
+    .single-post-1-column {
+        width: 100%!important;
+    }
+    .single-post-1-image {
+        width: 100%!important;
+        display: block;
+    }
+}
+

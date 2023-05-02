@@ -1,0 +1,9 @@
+#acf-group_5d74fc5e7d1a5 .categorychecklist-holder,
+#acf-group_5d74d99d0e44f .categorychecklist-holder {
+	border: none;
+}
+
+#acf-group_5d74fc5e7d1a5 .categorychecklist-holder ul,
+#acf-group_5d74d99d0e44f .categorychecklist-holder ul {
+	padding: 2px;
+}

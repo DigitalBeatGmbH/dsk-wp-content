@@ -1,0 +1,148 @@
+.tnp-promo {
+    margin-bottom: 40px;
+}
+
+#tnp-body .tnp-promo h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#tnp-body .tnp-promo h1 span {
+    color: var(--tnp-color-green);
+}
+
+#tnp-body .tnp-promo h2 {
+    font-size: 24px;
+}
+
+#tnp-body .tnp-promo input[type="text"],
+#tnp-body .tnp-promo input[type="email"]
+{
+    width: 250px;
+}
+
+#tnp-body .tnp-promo-box {
+    background-color: #28313C;
+    padding: 20px;
+    height: 240px; /* Usare flex! */
+}
+
+#tnp-body h3 {
+    font-size: 22px;
+}
+
+/* NO */
+#tnp-promo {
+    text-align: left;
+    background-color: #222b36;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px 40px;
+}
+#tnp-promo .tnp-promo-how-to {
+    width: 50%;
+    padding: 5px 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-left: 2px solid #F1C40F;
+}
+
+#tnp-promo .tnp-promo-how-to h3  {
+    color: #ECF0F1;
+    margin: 0px;
+    line-height: 36px;
+}
+
+#tnp-promo .tnp-promo-how-to p  {
+    color: #ECF0F1;
+    margin: 0px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+#tnp-promo .tnp-promo-buttons {
+    margin: 50px 0px;
+}
+
+#tnp-promo .tnp-promo-button {
+    background: #27AE60;
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    font-size: 15px;
+    border-radius: 2px;
+}
+
+#tnp-promo .tnp-promo-button:hover {
+    background: #2ECC71;
+    color: white;
+}
+
+#tnp-promo .tnp-promo-button i {
+    margin-right: 3px;
+}
+
+#tnp-promo #tnp-email, #tnp-promo #tnp-license-key {
+    margin: 20px 0px;
+    padding: 10px;
+    width: 300px;
+    border: none;
+    color: #656565;
+}
+
+#tnp-promo .tnp-button {
+    border: none;
+    padding: 11px 15px;
+}
+
+#tnp-promo .tnp-button:hover {
+    cursor: pointer;
+    background-color: #5d9fcc;
+}
+
+#tnp-promo .tnp-notes {
+    background-color: #272f3a;
+    padding: 10px;
+    border-left: 2px solid green;
+    color: white;
+}
+
+#tnp-promo .tnp-promo-one-third, #tnp-promo .tnp-promo-two-third, #tnp-promo .tnp-promo-third-third {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#tnp-promo .tnp-promo-one-third {
+    width: 15%;
+    margin-right: 20px;
+}
+
+#tnp-promo .tnp-promo-two-third {
+    width: 30%;
+    margin-right: 20px;
+}
+
+#tnp-promo .tnp-promo-third-third {
+    width: 45%;
+}
+
+.tnp-promo-insert {
+    padding: 0px 40px !important;
+}
+
+
+.tnp-promo-insert .tnp-button {
+    padding: 4px 10px !important;
+    background-color: #27AE60 !important;
+}
+
+.tnp-promo-insert .tnp-button:hover {
+    background-color: #2ECC71 !important;
+}
+
+h3.tnp-section-title {
+    clear: both;
+    font-size: 32px;
+    padding-top: 30px;
+}
+

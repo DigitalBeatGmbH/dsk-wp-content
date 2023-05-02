@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-15 13:22+0200\n"
+"PO-Revision-Date: 2019-10-15 13:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../src\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Admin/Admin.php:103 Admin/Admin.php:104 Admin/templates/taxes-page.php:50
+msgid "Dropshipping Market"
+msgstr "Dropshipping Marktplatz"
+
+#: Admin/Admin.php:111 Admin/Admin.php:112
+msgid "Product Delivery Time"
+msgstr "Lieferzeit"
+
+#: Admin/Admin.php:120 Admin/Admin.php:121
+msgid "Product Unit"
+msgstr "Einheiten"
+
+#: Admin/Admin.php:141 Admin/Admin.php:142
+msgid "Product Tax"
+msgstr "Steuersätze"
+
+#: Admin/Admin.php:354 Admin/Admin.php:398 Dropshipping/TaxBase.php:66
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: Admin/Admin.php:407 Admin/Admin.php:423
+msgid "Send to Dropshipping Marketplace"
+msgstr "An den Dropshipping Marktplatz senden"
+
+#: Admin/Admin.php:498
+msgid "Order has been send to Dropshipping Marketplace"
+msgstr "Bestellungen wurde an den Dropshipping Marktplatz versand"
+
+#: Admin/Admin.php:508
+msgid "Order has NOT been send to Dropshipping Marketplace"
+msgstr "Bestellungen wurde NICHT an den Dropshipping Marktplatz versand"
+
+#: Admin/Admin.php:567
+msgid "Please install WooCommerce and Germanized first."
+msgstr "Bitte zuerst WooCommerce und Germanized aktivieren!"
+
+#: Admin/templates/action-page.php:6
+msgid "Import DM delivery times"
+msgstr "Lieferzeiten importieren"
+
+#: Admin/templates/action-page.php:10
+msgid "Import DM units"
+msgstr "Einheiten importieren"
+
+#: Admin/templates/action-page.php:14
+msgid "Import DM taxes"
+msgstr "Steuersätze importieren"
+
+#: Admin/templates/action-page.php:18
+msgid "Start import of all products"
+msgstr "Alle Produkte importieren"
+
+#: Admin/templates/action-page.php:22
+msgid "Start stock update of all products"
+msgstr "Lieferstatus importieren"
+
+#: Admin/templates/taxes-page.php:12
+msgid "The request was successful"
+msgstr "Die Anfrage war erfolgreich"
+
+#: Admin/templates/taxes-page.php:35
+msgid "Save"
+msgstr "Speichern"
+
+#: Admin/templates/taxes-page.php:51
+msgid "WooCommerce"
+msgstr ""
+
+#: Admin/templates/taxes-page.php:88
+msgid "You are not authorized to perform this operation."
+msgstr ""
+
+#: Cron.php:118
+msgid "Once Every 5 Mins"
+msgstr ""
+
+#: Cron.php:122
+msgid "Once Every 15 Mins"
+msgstr ""
+
+#: Cron.php:126
+msgid "Every second hour"
+msgstr ""
+
+#: CustomFields.php:44 CustomFields.php:49
+msgid "DM Logs"
+msgstr ""
+
+#: CustomFields.php:45
+msgid "DM Log"
+msgstr ""
+
+#: CustomFields.php:87 CustomFields.php:92
+msgid "DM Steuern"
+msgstr ""
+
+#: CustomFields.php:88
+msgid "DM Steuer"
+msgstr ""
+
+#: CustomFields.php:119 CustomFields.php:124
+msgid "DM Lieferzeiten"
+msgstr ""
+
+#: CustomFields.php:120
+msgid "DM Lieferzeit"
+msgstr ""
+
+#: CustomFields.php:151 CustomFields.php:156
+msgid "DM Einheiten"
+msgstr ""
+
+#: CustomFields.php:152
+msgid "DM Einheit"
+msgstr ""
+
+#: Dropshipping/Log.php:58
+msgid "Date"
+msgstr ""
+
+#: Dropshipping/Log.php:59
+msgid "Number of recieved products"
+msgstr "Anzahl der erhaltenen Produkte"
+
+#: Dropshipping/Log.php:60
+msgid "Number of updated products"
+msgstr "Anzahl der aktualisierten Produkte"
+
+#: Dropshipping/Log.php:61
+msgid "Number of added products"
+msgstr "Anzahl der erstellten Produkte"
+
+#: Dropshipping/Log.php:62
+msgid "Number of deactivated products"
+msgstr "Anzahl der deaktivierten Produkte"
+
+#: Dropshipping/Log.php:63
+msgid "Number of ignored products"
+msgstr "Anzahl der ignorierten Produkte"
+
+#: Dropshipping/Log.php:260
+msgid "View"
+msgstr "Anzeigen"
+
+#: Dropshipping/Log.php:265
+msgid "Delete"
+msgstr "Löschen"
+
+#: Dropshipping/TaxBase.php:61
+msgid "Not recieved anything"
+msgstr "Nichts empfangen"
+
+#: Dropshipping/Taxes.php:38
+msgid "Standard rates"
+msgstr "Standard Raten"
+
+#: Dropshipping/Taxes.php:44
+#, php-format
+msgid "%s rates"
+msgstr "%s Raten"
+
+#: Dropshipping/Taxes.php:96
+msgid "Invalid nonce specified"
+msgstr ""
+
+#: Dropshipping/Taxes.php:96
+msgid "Error"
+msgstr ""
+
+#~ msgid "Actions"
+#~ msgstr "Aktionen"

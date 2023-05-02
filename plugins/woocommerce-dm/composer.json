@@ -1,0 +1,19 @@
+{
+	"name" : "webzap/wdm",
+	"authors" : [{
+			"name" : "WebZap",
+			"email" : "kontakt@webzap.eu"
+		}
+	],
+	"config" : {
+		"autoloader-suffix" : "WebZapWdm"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Wcustom\\Wdm\\" : "src/wdm/"
+		}
+	},
+	"require" : {
+		"php-curl-class/php-curl-class" : "^8.9"
+	}
+}

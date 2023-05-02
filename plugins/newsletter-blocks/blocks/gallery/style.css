@@ -1,0 +1,22 @@
+.gallery-medium {
+        box-sizing: border-box;
+        width: 280px;
+        height: 200px;
+        max-width: 100%!important;
+        overflow: hidden;
+        display: inline-block;
+        text-align: center;
+        padding: 0;
+        margin: 5px;
+    }
+@media all and (max-width: 480px) {
+    .gallery-thumbnail-img {
+        max-width: 45%;
+    }
+    .gallery-medium {
+        max-width: 100%!important;
+        height: auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+}

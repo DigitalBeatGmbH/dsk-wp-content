@@ -1,0 +1,19 @@
+<?php
+$theme_default_options = array(
+    'theme_show_price' => 1,
+    'theme_show_excerpt' => 1,
+    'theme_image_size' => 'medium',
+    'theme_show_add_to_cart' => 1,
+    'theme_title_1' => '',
+    'theme_title_2' => '',
+    'theme_title_3' => '',
+    'theme_view_online_label' => 'View online',
+    'theme_pre_header' => '',
+    'theme_color' => '#000000',
+    'theme_font_family' => 'Helvetica Neue, Helvetica, Arial, sans-serif',
+    'theme_background' => '#dddddd',
+    'theme_width' => 600,
+    'theme_image_width' => 600,
+    'theme_image_height' => 400,
+    'theme_image_crop' => 0,
+    'theme_add_to_cart_color' => '#256F9C');
